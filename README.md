@@ -10,7 +10,7 @@ Dijkstra's Map is an efficient web-based tool that implements Dijkstra's algorit
 - **Responsive Design**: Compatible with various devices and screen sizes.
 
 ## Notes
-In the assignment Part II, a client-server model is built. Now we are able to visualize the path between two points on a visible graph.
+Please unzip the files first before using. There is a size limitation on github which forces me to zip them.
 
 ## How to Use
 1. Go to the `server` sub-directory and enter `make` in the terminal.
